@@ -12,3 +12,8 @@ Java
 String hello = "Hello world!";
 System.out.println(hello);
 ```
+
+- [ ] Finish gitHub courses
+- [ ] Get AZ certification
+- [ ] Study for exams
+- [ ] enjoy my weekend
